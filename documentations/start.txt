@@ -1,0 +1,9 @@
+Created the react app on 12,march 2022
+also created the server side and initialized npm and installed express into the project
+insatlled nodemon in the server and setup in the package.json
+insatlled axios to the client folder  and called it at the app to make a test
+installed cors in the server side and initialled it to the app
+installed styled components
+installed react-icons to import all icons used
+insatlled react router dom to manage the routing
+i handled the session storage to be able to keep user login for a certain dureation like till the tab is closed
